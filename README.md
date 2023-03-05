@@ -1,2 +1,2 @@
 # MultiTap-Autoclicker
-An autoclicker
+An fast and easy-to-use autoclicker
